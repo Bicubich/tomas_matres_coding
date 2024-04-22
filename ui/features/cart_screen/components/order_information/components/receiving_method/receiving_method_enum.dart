@@ -1,0 +1,1 @@
+enum ReceivingType { delivery, payment }
